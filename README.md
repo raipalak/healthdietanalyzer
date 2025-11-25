@@ -25,8 +25,7 @@ This is a Java console application skeleton for the course project "Health & Die
 ## Sample Output
 
 
-![Program Output](healthdietanalyzer
-/Screenshot 2025-11-25 170840.png)
+![Program Output](/Screenshot 2025-11-25 170840.png))
 
 ## Notes
 - This is a single-user console demo. Data is persisted to `data/db.json`.
